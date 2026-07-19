@@ -1,0 +1,8 @@
+{
+    "platform": "Sm8750",
+    "package": "PakalaPkg",
+    "bootshim": {
+        "UEFI_BASE": "0xFF300000",
+        "UEFI_SIZE": "0x00400000"
+    }
+}
