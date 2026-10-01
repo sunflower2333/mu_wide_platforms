@@ -1,8 +1,0 @@
-{
-    "platform": "Sm8650",
-    "package": "LanaiPkg",
-    "bootshim": {
-        "UEFI_BASE": "0xC7CC0000",
-        "UEFI_SIZE": "0x00400000"
-    }
-}
